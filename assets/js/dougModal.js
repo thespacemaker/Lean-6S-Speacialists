@@ -5,7 +5,7 @@ var dougModal = document.getElementById("dougModal");
 var dougBtn = document.getElementById("dougBtn");
 
 // Get the <span> element that closes the modal
-var dougSpan = document.getElementsByClassName("close")[4];
+var dougSpan = document.getElementsByClassName("close")[0];
 
 // When the user clicks on the button, open the modal
 dougBtn.onclick = function() {
