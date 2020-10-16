@@ -5,7 +5,7 @@ var albertModal = document.getElementById("albertModal");
 var albertBtn = document.getElementById("albertBtn");
 
 // Get the <span> element that closes the modal
-var patriciaSpan = document.getElementsByClassName("close")[0];
+var albertSpan = document.getElementsByClassName("close")[0];
 
 // When the user clicks on the button, open the modal
 albertBtn.onclick = function() {
