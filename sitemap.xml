@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://leansixsigmaspecialists.com</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <url>
+      <loc>https://leansixsigmaspecialists.com/about.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+      <loc>https://leansixsigmaspecialists.com/services/index.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+
+      <loc>https://leansixsigmaspecialists.com/services/kaizen_events.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://leansixsigmaspecialists.com/services/5s_6s_services.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   
+   <url>
+      <loc>https://leansixsigmaspecialists.com/services/legos_lean_simulation.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://leansixsigmaspecialists.com/services/keynotes.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://leansixsigmaspecialists.com/products/index.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://leansixsigmaspecialists.com/products/supervisors_playbook.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://leansixsigmaspecialists.com/products/key_performance_indicators.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://leansixsigmaspecialists.com/products/employee_engagement.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://leansixsigmaspecialists.com/products/motivating_hispanic_employees_handbook.html</loc>
+      <lastmod>2020-11-21</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+</urlset>
